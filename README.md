@@ -21,6 +21,3 @@ Here are some ideas to get you started:
 ###  👯 I’m looking to collaborate on ... don't know, let me know if you have something
 
 ###  😄 Pronouns: moses
-
-###  💬 Ask me about the state of software development 
-
