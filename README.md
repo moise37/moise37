@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 ###  🤔 I’m looking for help with finding a job.
 
 ###  📫 How to reach me: moisespantoja@csus.edu
-
+[![linkedin](https://user-images.githubusercontent.com/39270614/89308967-dcdddd00-d640-11ea-9fb5-22fca46d608a.png)][1] 
 ###  👯 I’m looking to collaborate on ... don't know, let me know if you have something
 
 ###  😄 Pronouns: moses
+
+
+[1]: https://www.linkedin.com/in/moses-pantoja-9864a9158/
