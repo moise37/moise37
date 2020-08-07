@@ -6,21 +6,21 @@ Here are some ideas to get you started:
 
 -->
 
-####  ⚡ Fun fact: 🤖 Bots are going to take over every job in our lifetime, even us programmers 👩🏾‍💻 .
+### ⚡ Fun fact: 🤖 Bots are going to take over every job in our lifetime, even us programmers 👩🏾‍💻 .
 
-#### 🔭 I’m currently working on automating job searches
+### 🔭 I’m currently working on automating job searches
 
-#### 🌱 I’m currently learning everything.
+### 🌱 I’m currently learning everything.
 
-#### 🎓  Expected Graduation: Spring 2021
+### 🎓  Expected Graduation: Spring 2021
 
-####  🤔 I’m looking for help with finding a job.
+###  🤔 I’m looking for help with finding a job.
 
-####  📫 How to reach me: moisespantoja@csus.edu
+###  📫 How to reach me: moisespantoja@csus.edu
 
-####  👯 I’m looking to collaborate on ... don't know, let me know if you have something
+###  👯 I’m looking to collaborate on ... don't know, let me know if you have something
 
-####  😄 Pronouns: moses
+###  😄 Pronouns: moses
 
-####  💬 Ask me about the state of software development 
+###  💬 Ask me about the state of software development 
 
