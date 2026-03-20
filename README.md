@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Moise
+# Mo
 
 I build web and mobile applications.
 
